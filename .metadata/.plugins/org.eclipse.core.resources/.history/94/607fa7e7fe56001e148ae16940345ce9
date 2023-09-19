@@ -1,0 +1,5 @@
+package com.goSpring.main.service.impl;
+
+public class CloudVendorServiceImpl {
+
+}

@@ -1,0 +1,5 @@
+package com.goSpring.main.controller;
+
+public class CloudVendorController {
+
+}

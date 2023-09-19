@@ -1,0 +1,5 @@
+package com.goSpring.main.model;
+
+public class CloudVendor {
+
+}
